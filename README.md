@@ -24,7 +24,6 @@ This is my solution to the [Blog preview card challenge](https://www.frontendmen
 
 <!-- ## Key Features -->
 
-
 ## Automated Tasks
 
 - Project initialization with shell script
