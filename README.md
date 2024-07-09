@@ -22,7 +22,10 @@ This is my solution to the [Blog preview card challenge](https://www.frontendmen
 
 - [Vercel](https://vercel.com/) (static hosting)
 
-<!-- ## Key Features -->
+## Key Features
+
+- Responsive design
+- [Prerendering](https://angular.dev/guide/prerendering)
 
 ## Automated Tasks
 
@@ -43,22 +46,12 @@ This is my solution to the [Blog preview card challenge](https://www.frontendmen
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=angular.ng-template)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) (Angular 18 is not yet supported, see https://github.com/angular-eslint/angular-eslint/pull/1830)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) (active subscription required)
 
-<!-- ## Screenshots
-
-### Mobile
+## Screenshot (Mobile)
 
 ![mobile screenshot](screenshots/mobile.avif)
-
-### Tablet
-
-![tablet screenshot](screenshots/tablet.avif)
-
-### Desktop
-
-![desktop screenshot](screenshots/desktop.avif) -->
 
 ## About Frontend Mentor
 
