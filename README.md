@@ -2,14 +2,14 @@
 
 This is my solution to the [Blog preview card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) from [Frontend Mentor](https://www.frontendmentor.io/).
 
-[![project status](https://img.shields.io/badge/status-work%20in%20progress-red?style=for-the-badge)](https://fem-blog-preview-card-jgerard.vercel.app)
+[![project status](https://img.shields.io/badge/status-solution%20published-success?style=for-the-badge)](https://www.frontendmentor.io/solutions/blog-preview-card-RmZFBhPR6o)
 
 ## Links
 
 - [Live website](https://fem-blog-preview-card-jgerard.vercel.app)
-<!-- - [Solution](placeholder) -->
+- [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-RmZFBhPR6o)
 - [Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-<!-- - [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=placeholder) -->
+- [Lighthouse report](https://googlechrome.github.io/lighthouse/viewer/?gist=88f06e2805b44fb881e79cd1494d7909)
 
 ## Tech Stack
 
